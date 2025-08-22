@@ -1,4 +1,0 @@
-# Ignore build and configuration files
-.vscode/
-build/
-.gitignore
