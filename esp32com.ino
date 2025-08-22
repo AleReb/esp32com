@@ -1,4 +1,4 @@
-//usamos hardware serial
+//usamos hardware serial creamos otro comentario
 // Definimos los pines para Serial2 estos pines son para la comunicación serie
 #define RX2_PIN 16
 #define TX2_PIN 17
